@@ -1,6 +1,6 @@
 /*
  * This class creates a card object. It contains the rank (data1_field), suit(data2_field),
- * Pointer that links to the card to it's left, and a point that links to the card on it's right.
+ * Pointer that links to the card to it's left, and a pointer that links to the card on it's right.
  */
 #include <Arduino.h>
 
